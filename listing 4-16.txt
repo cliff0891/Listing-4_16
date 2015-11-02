@@ -1,0 +1,139 @@
+1. open eclipse and start a new project
+	a. may need to change your workspace
+2. go to github and start a new repository
+3. use command prompt
+
+
+C:\Users\LAB>e:
+
+E:\>dir
+ Volume in drive E is CLIFFORD YU
+ Volume Serial Number is 3ED8-278E
+
+ Directory of E:\
+
+01/16/2015  09:22 PM    <DIR>          Book2Net_2015_01_16
+02/04/2015  07:20 AM    <DIR>          Book2Net_2015_02_04
+02/20/2015  07:04 AM    <DIR>          Book2Net_2015_02_20
+03/10/2015  04:26 PM    <DIR>          Book2Net_2015_03_10
+03/16/2015  06:50 PM    <DIR>          Book2Net_2015_03_16
+04/01/2015  10:21 PM    <DIR>          Book2Net_2015_04_01
+04/19/2015  10:38 AM    <DIR>          Book2Net_2015_04_19
+05/28/2015  01:54 AM    <DIR>          videos
+08/31/2015  09:57 PM    <DIR>          New folder
+09/02/2015  09:08 AM    <DIR>          CSEclipseWorkspace
+09/04/2015  06:27 PM           240,977 COMSC1023_Alshammari_Sufuq.docx
+09/04/2015  06:34 PM            12,639 AcademicIntegrity.docx
+09/14/2015  09:12 AM    <DIR>          class work
+09/12/2014  12:15 PM    <DIR>          .metadata
+09/04/2015  09:09 AM    <DIR>          classProject
+09/02/2015  09:08 AM    <DIR>          ComputerAreasec1
+09/09/2015  09:13 AM    <DIR>          AverageOfNumbers
+09/22/2015  11:57 AM            17,599 I went to P.docx
+09/22/2015  12:08 PM            11,262 informative speech.docx
+09/22/2015  02:53 PM            17,414 in-class quiz.docx
+09/23/2015  09:08 AM    <DIR>          CMD
+08/31/2015  11:13 PM    <DIR>          COMSC
+09/23/2015  09:16 AM    <DIR>          COMPUTER SCIENCE CLASS
+09/30/2015  10:08 PM            99,095 GIT WEEK.docx
+10/02/2015  09:33 AM            11,236 Doc1.docx
+10/05/2015  09:14 AM               101 PLEASE READ ME.txt
+10/21/2015  09:08 PM            20,930 compare and conrast.docx
+10/27/2015  08:42 AM            24,695 Universal History.docx
+10/27/2015  12:15 PM            19,775 compare and conrast.draft1docx.docx
+11/16/2014  03:00 AM           135,627 1523629_215612268626052_127164326_o.jpg
+11/16/2014  02:53 AM           331,540 10497152_278425992344679_5685568865660662
+11_o.jpg
+11/16/2014  02:53 AM           164,086 10480110_280473938806551_6280689138764549
+448_o.jpg
+11/16/2014  03:08 AM           124,776 10363725_281000692087209_3392160531993006
+873_n.jpg
+11/16/2014  02:53 AM            59,555 10390204_261441384043140_3994685902640161
+953_n.jpg
+11/09/2014  01:45 PM           113,683 10270279_818197421555129_7906388178723724
+00_n.jpg
+11/16/2014  02:58 AM           101,238 1907603_251962068324405_73112334221499055
+00_n.jpg
+04/14/2015  07:39 PM            80,103 10997782_10152670447245957_44274608561021
+25115_n.jpg
+04/14/2015  07:38 PM            82,348 11162461_10152670447240957_20425615283735
+76054_n.jpg
+01/05/2015  04:13 PM           497,101 1506336_216039838583295_1045764802_o.jpg
+01/05/2015  04:13 PM            65,835 10686647_300680306785914_5558296860754913
+494_n.jpg
+              22 File(s)      2,231,615 bytes
+              18 Dir(s)  459,699,716,096 bytes free
+
+E:\>cd comsc
+
+E:\COMSC>dir
+ Volume in drive E is CLIFFORD YU
+ Volume Serial Number is 3ED8-278E
+
+ Directory of E:\COMSC
+
+08/31/2015  11:13 PM    <DIR>          .
+08/31/2015  11:13 PM    <DIR>          ..
+08/31/2015  11:11 PM    <DIR>          New folder
+08/29/2015  03:47 PM    <DIR>          project 1
+09/02/2015  07:04 PM    <DIR>          assignments
+09/02/2015  10:03 PM    <DIR>          helloworldPJ1k
+09/11/2015  12:11 PM    <DIR>          .metadata
+09/11/2015  12:13 PM    <DIR>          .recommenders
+09/11/2015  12:29 PM    <DIR>          Sum
+09/11/2015  01:09 PM    <DIR>          Area&PerimeterOfaRectangle1.9
+09/11/2015  01:43 PM    <DIR>          AverageSpeed
+09/11/2015  05:02 PM            14,980 problems 1.6 1.9 1.12.docx
+08/31/2015  09:30 AM    <DIR>          Square of a perimeter
+09/14/2015  09:43 AM    <DIR>          Velocity
+08/31/2015  09:45 PM    <DIR>          eclipse
+09/14/2015  09:55 PM    <DIR>          ConvertFeet2Meters
+09/14/2015  10:45 PM    <DIR>          PhysicsVelocity
+09/15/2015  04:34 PM    <DIR>          WindChillTemp
+09/16/2015  09:10 AM    <DIR>          Chap2Ex1-2
+09/16/2015  04:59 PM            20,949 COMSC_YUYUN_CLIFFORD.docx
+09/18/2015  09:19 AM    <DIR>          TheIFproblems
+09/18/2015  09:38 AM    <DIR>          If
+09/18/2015  09:44 AM    <DIR>          IfwithScanner
+09/21/2015  04:55 PM    <DIR>          IfStatementPractice
+09/21/2015  05:16 PM    <DIR>          AscendingOrder
+09/22/2015  12:23 PM            16,123 Write a code that asks the user to enter
+three numbers.docx
+09/23/2015  09:12 AM    <DIR>          LocalGIT
+09/23/2015  10:03 AM            18,532 COMSC_YUYUN_CLIFFORD4.docx
+10/02/2015  09:18 AM    <DIR>          GitBranch
+10/02/2015  09:34 AM            12,324 GitBranch on eclipse.docx
+10/07/2015  10:13 AM    <DIR>          classnotespro
+10/07/2015  10:14 AM                18 README.md
+10/10/2015  09:23 PM    <DIR>          additongame
+10/10/2015  09:54 PM    <DIR>          delete
+10/13/2015  04:20 PM    <DIR>          additiongamepro
+10/13/2015  04:27 PM    <DIR>          AdditionGame
+10/13/2015  04:34 PM    <DIR>          additiongame1
+10/14/2015  09:12 AM            15,449 package additiongame1.docx
+10/14/2015  04:34 PM            24,539 addition game.docx
+10/18/2015  11:51 AM    <DIR>          com
+10/19/2015  09:07 AM    <DIR>          ZodiacProject
+09/11/2015  12:59 PM        14,664,009 Comsc Textbook.pdf
+10/21/2015  09:54 PM            19,933 ExamR_Yuyun_Clifford.docx
+10/26/2015  09:29 AM             1,103 readmeDoc.txt
+10/26/2015  09:13 AM    <DIR>          FunWithFunctionsProject
+10/30/2015  09:33 AM    <DIR>          PenBoolean
+11/02/2015  09:17 AM    <DIR>          listing 4-16
+              11 File(s)     14,807,959 bytes
+              36 Dir(s)  459,699,716,096 bytes free
+
+E:\COMSC>cd listing 4-16
+
+E:\COMSC\listing 4-16>
+
+
+
+
+
+
+
+
+
+
+
