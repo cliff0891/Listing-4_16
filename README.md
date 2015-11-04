@@ -44,7 +44,7 @@ and ending value. Then print it out.*/
 // This shows how we can set up a method call.
 
 ## Code
-```
+```java
 public class listing4_16 {
 	public static void main(String[] args) {
 		
