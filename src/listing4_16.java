@@ -17,7 +17,7 @@ public class listing4_16 {
 		fill it with a random number that is between our starting value
 		and ending value. Then print it out. */
 		int randomNumber;
-		
+		System.out.println("The random uppercase letter is:");
 		 // Generate a random number
 		randomNumber = (int)(startingValue + Math.random()*endingValue);
 	    // recast the number to a letter.
