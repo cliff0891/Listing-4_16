@@ -139,7 +139,7 @@ E:\COMSC_1033_Workspace\Listing-4_16 >git commit -m "first commit"
 Make the connections between our repository and Github.
 ```
 E:\COMSC_1033_Workspace\Listing-4_16 >git remote add origin https://
-github.com/jeremy-evert/Listing-4_16 .git
+github.com/cliff0891/Listing-4_16 .git
 
 E:\COMSC_1033_Workspace\Listing-4_16 >git push -u origin master
 Username for 'https://github.com': yuyunc@student.swosu.edu
@@ -149,7 +149,7 @@ Delta compression using up to 4 threads.
 Compressing objects: 100% (8/8), done.
 Writing objects: 100% (9/9), 1.27 KiB | 0 bytes/s, done.
 Total 9 (delta 0), reused 0 (delta 0)
-To https://github.com/jeremy-evert/Listing-4_16 .git
+To https://github.com/cliff0891/Listing-4_16 .git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
 ```
