@@ -87,6 +87,10 @@ public class listing4_16 {
 # B
 *The random uppercase letter is:*
 # W
+ 
+ 
+## Summary
+Writing a program to generate random uppercase letters and using markdown. I learned that to write this code, I have to recast numbers to letters with letter “A” being number 65 and “Z” being 90 as seen in Liang Java 10th edition. Pg 125, Table 4.4 Characters A to Z have a Value in Decimal of 65 to 90. I also learned how to make random number that is int number1 = (int)(Math.random()*10); that is going to correspond with the random uppercase letter [randomNumber = (int)(startingValue + Math.random()*endingValue); ] ranging from 65 to 90 and A to Z. To cover the range, so we added one more to ensure we would cover A through Z.
 
 
 
